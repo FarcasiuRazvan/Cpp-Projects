@@ -1,0 +1,11 @@
+﻿  Controller.cpp
+  main.cpp
+  Repository.cpp
+G:\HARD\Calculator Razvi\Laptop Razvi\Facultate\an2\Anul 2\visual studio\repos\ArtGallery\ArtGallery\Repository.cpp(14,21): warning C4018: '<': signed/unsigned mismatch
+G:\HARD\Calculator Razvi\Laptop Razvi\Facultate\an2\Anul 2\visual studio\repos\ArtGallery\ArtGallery\Repository.cpp(18,21): warning C4018: '<': signed/unsigned mismatch
+  UI.cpp
+G:\HARD\Calculator Razvi\Laptop Razvi\Facultate\an2\Anul 2\visual studio\repos\ArtGallery\ArtGallery\UI.cpp(56,20): warning C4018: '<': signed/unsigned mismatch
+G:\HARD\Calculator Razvi\Laptop Razvi\Facultate\an2\Anul 2\visual studio\repos\ArtGallery\ArtGallery\UI.cpp(62,20): warning C4018: '<': signed/unsigned mismatch
+G:\HARD\Calculator Razvi\Laptop Razvi\Facultate\an2\Anul 2\visual studio\repos\ArtGallery\ArtGallery\UI.cpp(93,16): warning C4390: ';': empty controlled statement found; is this the intent?
+  Generating Code...
+  ArtGallery.vcxproj -> G:\HARD\Calculator Razvi\Laptop Razvi\Facultate\an2\Anul 2\visual studio\repos\ArtGallery\Debug\ArtGallery.exe
